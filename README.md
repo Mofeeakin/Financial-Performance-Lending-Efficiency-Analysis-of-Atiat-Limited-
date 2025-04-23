@@ -28,24 +28,22 @@ The assessment includes both time-series trend analysis and ratio analysis. A sl
 - **DuPont Analysis** revealed that the declining ROE is primarily driven by reductions in the equity multiplier and asset turnover, despite improvements in net profit margin.
 
 ### Income & Earnings
-- **Net Interest Income** dropped from ₦2.65M in 2022 to ₦1.87M in 2023, while **Net Leasing Income** increased to ₦1.09M in 2023, suggesting a shift in business focus or risk diversification.
+- **Net Interest Income** dropped from ₦2.65M in 2022 to ₦1.87M in 2023, while Net Leasing Income increased to ₦1.09M in 2023, suggesting a shift in business focus or risk diversification.
 - **Profit Before Tax** and **Profit After Tax** improved significantly, underscoring enhanced profitability and cost efficiency.
 
 ## Key Insights
 
-📈 Post-Pandemic Revenue Recovery: Gross earnings grew significantly from ₦2.04M in 2021 to ₦6.21M in 2022 and ₦7.06M in 2023. This demonstrates resilience and a strong recovery strategy post-COVID, likely due to better customer acquisition, pricing strategy, or lending portfolio expansion.
+Post-Pandemic Revenue Recovery: Gross earnings grew significantly from ₦2.04M in 2021 to ₦6.21M in 2022 and ₦7.06M in 2023. This demonstrates resilience and a strong recovery strategy post-COVID, likely due to better customer acquisition, pricing strategy, or lending portfolio expansion.
 
-📊 Return on Assets (ROA) Decline: ROA fell from above 20% in 2019 to around 13% in 2023, indicating reduced asset productivity. This might result from asset base expansion not yielding equivalent income or rising inefficiencies.
+Return on Assets (ROA) Decline: ROA fell from above 20% in 2019 to around 13% in 2023, indicating reduced asset productivity. This might result from asset base expansion not yielding equivalent income or rising inefficiencies.
 
-🧮 Net Profit Margin Volatility: Net Profit margin dipped in 2021, followed by a recovery in 2022–2023. Suggesting volatility in cost control or fluctuations in non-core income/expenses (e.g., impairments, financing costs).
+Net Profit Margin Volatility: Net Profit margin dipped in 2021, followed by a recovery in 2022–2023. Suggesting volatility in cost control or fluctuations in non-core income/expenses (e.g., impairments, financing costs).
 
-📉 Return on Equity (ROE) Pressure: ROE dropped sharply from double digits in 2020 to 3% in 2023, driven by a combination of decreasing profitability and Reduced leverage (Equity Multiplier). Highlights the challenge in delivering shareholder value with the current capital structure.
+Return on Equity (ROE) Pressure: ROE dropped sharply from double digits in 2020 to 3% in 2023, driven by a combination of decreasing profitability and Reduced leverage (Equity Multiplier). Highlights the challenge in delivering shareholder value with the current capital structure.
 
-📉 Leverage and Capital Structure Shift:
+Leverage and Capital Structure Shift: Equity multiplier consistently declined, indicating a reduction in debt-financed operations or increased equity injections. The company is deleveraging, which reduces risk but can also lower return potential if not offset by higher efficiency.
 
-Equity multiplier consistently declined, indicating a reduction in debt-financed operations or increased equity injections. The company is deleveraging, which reduces risk but can also lower return potential if not offset by higher efficiency.
-
-📊 Income Diversification in Focus: Net leasing and interest income show growth post-2021, a good signal of portfolio diversification and earnings stability.
+Income Diversification in Focus: Net leasing and interest income show growth post-2021, a good signal of portfolio diversification and earnings stability.
 
 Declining Operational Efficiency (Operating Margin): Operating margin dropped from 0.8 in 2019–2021 to 0.4 in 2022 and 2023, a 50% decrease. Indicates rising operational costs or stagnation in revenue growth without matching efficiency gains. Suggests pressure on core activities despite increasing gross earnings.
 
