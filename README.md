@@ -4,6 +4,8 @@ This report provides a comprehensive financial analysis of Atiat Limited over th
 
 The assessment includes both time-series trend analysis and ratio analysis. A slicer-driven interface allows for dynamic filtering across fiscal years, facilitating focused insights into specific periods.
 
+![FInancial Performance Dashboard.png](https://github.com/Mofeeakin/Financial-Performance-Lending-Efficiency-Analysis-of-Atiat-Limited-/blob/3c271393861f79a314625a63a13e40a7f6870c1e/Screenshot%20(322).png)
+
 ## Key Metrics Analyzed
 - **Operating Margin**
 - **Net Profit Margin**
