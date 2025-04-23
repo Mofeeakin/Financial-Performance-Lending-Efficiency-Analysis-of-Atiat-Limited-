@@ -69,3 +69,11 @@ Atiat Limited demonstrates resilience and recovery across core profitability met
 - **Microsoft Excel**: Used for data analysis, interactive dashboards, financial formulas (e.g., DuPont), data modeling, and visualization.
 - **Pivot Tables & Slicers**: Enabled dynamic filtering and cross-sectional analysis by year.
 
+## Contact & Collaboration  
+
+Interested in collaborating on **data analytics, financial modeling, or AI-driven insights**? Let’s connect!  
+
+- **Email**: [akinolamofe2@gmail.com](mailto:akinolamofe2@gmail.com)  
+- **LinkedIn**: [www.linkedin.com/in/mofe-akinola-6a8934160](#)  
+- **GitHub**: [https://github.com/Mofeeakin](#)  
+
